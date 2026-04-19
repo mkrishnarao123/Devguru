@@ -14,7 +14,7 @@
 <script setup lang="js">
 import { ref } from 'vue';
 const userdata=ref({
-  name:"sai",
+  name:"krishnarao",
   designation:"developer"
 })
 const getData=ref(null)
